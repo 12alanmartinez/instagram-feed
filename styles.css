@@ -1,0 +1,42 @@
+body{
+    background:#bdbdbd;
+    margin: 0;
+}
+.post{
+    background: white;
+    margin-top: 10px;
+}
+header h1{
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+header{
+    background: white;
+}
+.caption{
+    background: white;
+    padding: 7px;
+}
+.image{
+    height: 350px;
+    width: 300px;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+.firstP{
+    display: inline-block;
+    width: 80%;
+}
+.date{
+    display: inline-block;
+    width: 18%;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
